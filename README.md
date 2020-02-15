@@ -35,7 +35,8 @@ In this chapter try to describe algorithms along with all the pipelines you have
   * used with explicit parameters of ....
 
 ### Pipeline 1
-We used `<method>` after <that> to get to <this>. After <those> items were substracted from <them>, <they> were clearly visible for further processing with `<method>`, to get to <these> visualisations:
+We used `<method>` after `<that>` to get to `<this>`. After `<those>` items were substracted from `<them>`, `<they>` were clearly visible for further processing with `<method>`, to get to `<these>` visualisations:
+
 ![RESULTS](https://cdn-blog.adafruit.com/uploads/2019/02/ezgif-4-cbfa86351947.gif)
 
 ## Results
